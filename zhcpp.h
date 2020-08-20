@@ -52,6 +52,7 @@ typedef std::string 字符串;
 #define 返回 return
 
 #define 换行符 "\n"
+#define 换行 std::endl;
 
 #define 类 class
 #define 新建 new
