@@ -36,6 +36,7 @@ typedef std::string 字符串;
 #define 则 ?
 #define 不然 :
 #define 的 .
+#define 对应的 ->
 
 #define 如果 if
 #define 否则 else
@@ -60,6 +61,7 @@ typedef std::string 字符串;
 #define 公开成员 public
 #define 受保护成员 protected
 #define 私有成员 private
+#define 这个对象 this
 
 #define 无穷大 INFINITY
 #define 无穷小 -INFINITY
